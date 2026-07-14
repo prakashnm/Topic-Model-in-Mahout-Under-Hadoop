@@ -1,0 +1,15 @@
+# Compiled output
+out/
+*.class
+
+# NIPS dataset (download separately from UCI Bag of Words) and generated corpus
+*.gz
+docword.nips.txt
+vocab.nips.txt
+lda_dump_output/
+
+# Editor / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
